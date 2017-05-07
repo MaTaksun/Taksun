@@ -1,1 +1,3 @@
 Init File 1 in master branch
+
+amend changed
